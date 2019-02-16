@@ -10,5 +10,6 @@ public class Demo5 {
 	System.out.println("---demo5---");
 	System.out.println("---demo5---");
 	System.out.println("---demo5---");
+	System.out.println("---demo5---");
 }
 }
